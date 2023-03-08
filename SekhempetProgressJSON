@@ -1,0 +1,436 @@
+{
+  "dictionary":
+  {
+    "ajani":
+    {
+      "phyrexian":"ajaniPhy",
+      "IPA":"ʔəʤɒniiʔ",
+      "plural":false,
+      "translation":"Ajani",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":false,
+      "notes":false
+    },
+    "avaricta":
+    {
+      "phyrexian":"avarictaPhy",
+      "IPA":"avarikta",
+      "plural":false,
+      "translation":"Avaricta",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "elesh norn":
+    {
+      "phyrexian":"eleshPhy",
+      "IPA":"ʔelʃ norn",
+      "plural": false,
+      "translation":"Elesh Norn",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "jin-gitaxias":
+    {
+      "phyrexian":"jin-gitaxiasPhy",
+      "IPA":"jiʔngytx",
+      "plural":false,
+      "translation":"Jin-Gitaxias",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "jace":
+    {
+      "phyrexian":"jacePhy",
+      "IPA":"jes",
+      "plural":false,
+      "translation":"Jace",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":false,
+      "notes":false
+    },
+    "k'rrik":
+    {
+      "phyrexian":"k'rrikPhy",
+      "IPA":"kʰərrx",
+      "plural":false,
+      "translation":"K'rrik",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "lukka":
+    {
+      "phyrexian":"lukkaPhy",
+      "IPA":"lykuʔ",
+      "plural":false,
+      "translation":"Lukka",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":false,
+      "notes":false
+    },
+    "nahiri":
+    {
+      "phyrexian":"nahiriPhy",
+      "IPA":"nhiriiʔ",
+      "plural":false,
+      "translation":"Nahiri",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":false,
+      "notes":false
+    },
+    "nissa":
+    {
+      "phyrexian":"nissaPhy",
+      "IPA":"nisaʔ",
+      "plural":false,
+      "translation":"Nissa",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":false,
+      "notes":false
+    },
+    "phyrexia":
+    {
+      "phyrexian":"phyrexiaPhy",
+      "IPA":"pʰyrxkeθəgd",
+      "plural":false,
+      "translation":"Phyrexia",
+      "root":false,
+      "composition":["phyrexiaRoot,landRoot"],
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "sheoldred":
+    {
+      "phyrexian":"sheoldredPhy",
+      "IPA":"ʃøldrd",
+      "plural":false,
+      "translation":"Sheoldred",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":false
+    },
+    "machine":
+    {
+      "phyrexian":"machinePhy",
+      "IPA":"jɒʔg",
+      "plural":"jɒɒʔg",
+      "translation":"machine",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "father":
+    {
+      "phyrexian":"fatherPhy",
+     "IPA":"moʔθ",
+     "plural":"mooʔθ",
+     "translation":"father",
+     "root":false,
+     "composition":false,
+     "examples":["list of examples"],
+     "class":["noun"],
+     "native":true,
+     "notes":["Unknown to the writer of text if father can be plural or not."]
+    },
+    "yawgmoth":
+    {
+      "phyrexian":"yawgmothPhy",
+      "IPA":"jɒʔgmoʔθ",
+      "plural":false,
+      "translation":"Yawgmoth",
+      "root":"machineRoot, fatherRoot",
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["Proper name"],
+      "native":true,
+      "notes":["Compound word comprising of jɒʔg and moʔθ, having the translations of machine and father respectively."]
+    },
+    "turn":
+    {
+      "phyrexian":"turnPhy",
+      "IPA":"ronɣ",
+      "plural":"roonɣ",
+      "translation":"turn",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "card":
+    {
+      "phyrexian":"cardPhy",
+      "IPA":"ɢwinʃ",
+      "plural":"ɢwiinʃ",
+      "translation":"card",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "draw":
+    {
+      "phyrexian":"drawPhy",
+      "IPA":"mprɒsw",
+      "plural":false,
+      "translation":"draw",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["verb"],
+      "native":true,
+      "notes":false
+    },
+    "planeswalker":
+    {
+      "phyrexian":"planeswalkerPhy",
+      "IPA":"nmhupment",
+      "plural":"nmhuupment",
+      "translation":"Planeswalker",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "artifact":
+    {
+      "phyrexian":"artifactPhy",
+      "IPA":"qxunaʔx",
+      "plural":"qxuunaʔx",
+      "translation":"artifact",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "agent":
+    {
+      "phyrexian":"agentPhy",
+      "IPA":"ganwr",
+      "plural":"gaanwr",
+      "translation":"agent",
+      "root":false,
+      "composition":false,
+      "examples":["Ajani, Sleeper Agent, Blighted Agent"],
+      "class":["noun"],
+      "native":true,
+      "notes":false
+    },
+    "basic":
+    {
+      "phyrexian":"basicPhy",
+      "IPA":"ɣøpʼiʔt",
+      "plural":"ɣøøpʼiʔt",
+      "translation":"basic",
+      "root":false,
+      "composition":false,
+      "examples":["Phyrexian Swamp"],
+      "class":"adjective, noun",
+      "native":true,
+      "notes":false
+    },
+    "legendary":
+    {
+      "phyrexian":"legendaryPhy",
+      "IPA":"ʁajg",
+      "plural":"ʁaajg",
+      "translation":"legendary, legend",
+      "root":"false",
+      "composition":false,
+      "examples":["Elesh Norn, Grand Cenobite"],
+      "class":"noun, adjective",
+      "native":true,
+      "notes":false
+    },
+    "creature":
+    {
+      "phyrexian":"creaturePhy",
+      "IPA":"pʰeʔx, pʼeʔx",
+      "plural":" pʰeeʔx, pʼeeʔx",
+      "translation":"creature",
+      "root":false,
+      "composition":false,
+      "examples":["list of examples"],
+      "class":"noun",
+      "native":true,
+      "notes":["Word has two differing writings; one with pʰ and the other with pʼ. This may be related to differing conjugations or grammatical numbers."]
+    },
+    "enchantment":
+    {
+      "phyrexian":"enchantmentPhy",
+      "IPA":"myθʒ",
+      "plural":"mytθʒ",
+      "translation":"enchantment, enchant",
+      "root":false,
+      "composition":false,
+      "examples":["Phyrexian Arena"],
+      "class":"noun, verb, adjective",
+      "native":true,
+      "notes":false
+    },
+    "instant":
+    {
+      "phyrexian":"instantPhy",
+      "IPA":"ziklʁums",
+      "plural":"ziiklʁums",
+      "translation":"instant, fast-spell",
+      "root":"fastRoot, spellRoot",
+      "composition":false,
+      "examples":["Mental Misstep, Dismember"],
+      "class":"adjective, noun",
+      "native":true,
+      "notes":false
+    },
+    "sorcery":
+    {
+      "phyrexian":"sorceryPhy",
+      "IPA":"kiʃplʁums",
+      "plural":"kiiʃplʁums",
+      "translation":"sorcery, slow-spell",
+      "root":"slowRoot, spellRoot",
+      "composition":false,
+      "examples":["Yawgmoth's Testament"],
+      "class":"noun, adjective",
+      "native":true,
+      "notes":false
+    },
+    "land":
+    {
+      "phyrexian":"landPhy",
+      "IPA":"θəɢð",
+      "plural":"θəəɢð",
+      "translation":"land",
+      "root":false,
+      "composition":false,
+      "examples":["Inkmoth Nexus"],
+      "class":"noun, adjective",
+      "native":true,
+      "notes":false
+    },
+    "plains":
+    {
+      "phyrexian":"plainsPhy",
+      "IPA":"ʔiʧql",
+      "plural":"ʔiiʧql",
+      "translation":"plains",
+      "root":false,
+      "composition":false,
+      "examples":"plains",
+      "class":"noun, Proper name",
+      "native":true,
+      "notes":false
+    },
+    "island":
+    {
+      "phyrexian":"islandPhy",
+      "IPA":"kɰθəɢð",
+      "plural":"kɰθəəɢð",
+      "translation":"island",
+      "root":false,
+      "composition":false,
+      "examples":"island",
+      "class":"noun",
+      "native":true,
+      "notes":false
+    },
+    "swamp":
+    {
+      "phyrexian":"swampPhy",
+      "IPA":"qaʃkm",
+      "plural":"qaaʃkm",
+      "translation":"swamp",
+      "composition":false,
+      "examples":"swamp",
+      "class":"noun",
+      "native":true,
+      "notes":false
+    },
+    "mountain":
+    {
+      "phyrexian":"mountainPhy",
+      "IPA":"ktakx",
+      "plural":"ktaakx",
+      "translation":"mountain",
+      "composition":false,
+      "examples":"mountain",
+      "class":"noun",
+      "native":true,
+      "notes":false
+    },
+    "forest":
+    {
+      "phyrexian":"forestPhy",
+      "IPA":"ʔoɢθəsð",
+      "plural":"ʔooɢθəsð",
+      "translation":"forest",
+      "composition":false,
+      "examples":"forest",
+      "class":"noun",
+      "native":true,
+      "notes":false
+    },
+    "beast":
+    {
+      "phyrexian":"beastPhy",
+      "IPA":"pnpeʔk",
+      "plural":"pnpeeʔk",
+      "translation":"beast",
+      "composition":false,
+      "examples":"Lukka, Bound to Ruin",
+      "class":"noun",
+      "native":true,
+      "notes":false
+    },
+      
+      
+    }
+    }
+    }
+    }
+  }
+}
